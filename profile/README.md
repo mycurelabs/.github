@@ -1,9 +1,13 @@
 https://oss.mycure.md/
 
 <p align="center">
-<img style="width: 150px" src="./mycure-logo-circle.png">
+<img style="width: 150px" src="https://avatars.githubusercontent.com/u/39532909?s=400&u=4e55790df24628fd6ed7117a5b9255bacd3e51e8&v=4">
 <h1 align="center">
   <a href="https://mycure.md" target="_blank">MYCURE</a>
+  <br/>
+  <i>
+    <small>Care the extra mile</small>
+  </i>
 </h1>
 </p>
 
@@ -15,7 +19,7 @@ https://oss.mycure.md/
 </a>
 </p>
 
-# Welcome to MYCURE OSS
+# Welcome to MYCURE Open Source
 
 MYCURE supports openness, transparency, and open collaboration because we believe in the universal law that you should give back to maintain the balance of the OSS world. Being a part of the OSS community for more than 7 years now, we have developed and contributed to many projects across GitHub. Our favorite language to contribute to is JavaScript, and oh, we also love Vue.js, here are some of our humble projects.
 
