@@ -1,5 +1,3 @@
-https://oss.mycure.md/
-
 <p align="center">
 <img style="width: 150px" src="https://avatars.githubusercontent.com/u/39532909?s=400&u=4e55790df24628fd6ed7117a5b9255bacd3e51e8&v=4">
 <h1 align="center">
